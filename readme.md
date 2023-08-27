@@ -22,8 +22,8 @@ engage in real-time text-based conversations.</p>
 <li>Scaledrone</li>
 
 <h3>Images:</h3>
-<img src="/images/Login.png" alt="Login page" width="350px" height="350px"/><br>
-<img src="/images/Main.png" alt="Main page" width="350px" height="350px"/>
+<img src="/images/Login.png" alt="Login page" width="550px" height="350px"/><br>
+<img src="/images/Main.png" alt="Main page" width="550px" height="350px"/>
 
 <h3>Contributing:</h3>
 <p>Contributions are welcome! If you find any bug or have ideas for new features,
