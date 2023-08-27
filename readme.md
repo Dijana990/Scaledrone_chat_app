@@ -17,6 +17,7 @@ engage in real-time text-based conversations.</p>
 
 <h3>Technologies Used:</h3>
 <li>HTML5</li>
+<li>CSS</li>
 <li>SASS</li>
 <li>JavaScript</li>
 <li>Scaledrone</li>
